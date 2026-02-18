@@ -1,0 +1,1 @@
+# Featuring : [id][university_code][name][slug][short_name][description][status][accreditation][website][email][phone][whatsapp][facebook][instagram][twitter][youtube][address][province_id][city_id][postal_code] 
